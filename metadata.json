@@ -1,0 +1,6 @@
+{
+  "name": "Model OIC Session Chairing & Committee Management",
+  "description": "Session chairing and committee management web application for Model OIC simulations with Roll Call, Speakers Lists, Caucuses, Motions, and Voting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
